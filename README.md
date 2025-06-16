@@ -21,7 +21,7 @@ On MoBoardX, I share real-world microcontroller projects, firmware hacks, and tu
 - 🌐 [YouTube Channel](https://youtube.com/@MoBoardX)
 - 📷 [Instagram](https://instagram.com/moboardx)
 - 💾 [Project Code & Docs](https://github.com/MoBoardX)
-- 📬 mo@moboardx.dev
+- 📬 moboardx@gmail.com
 
 ---
 

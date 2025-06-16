@@ -26,5 +26,5 @@ On MoBoardX, I share real-world microcontroller projects, firmware hacks, and tu
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MoBoardX/MoBoardX/main/assets/banner.png" width="100%" alt="MoBoardX Banner"/>
+  <img src="https://raw.githubusercontent.com/MoBoardX/MoBoardX/main/assets/Banner.png" width="100%" alt="MoBoardX Banner"/>
 </p>
